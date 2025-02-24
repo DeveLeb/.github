@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to DeveLeb! A community created for lebanese developers.
+Welcome to Develeb! A community created for lebanese developers.
 <!--
 
 **Here are some ideas to get you started:**
